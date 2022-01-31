@@ -1,0 +1,56 @@
+[
+    {
+        "name": "BMW X7 SUV",
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/02/1-64-1024x683.jpg",
+        "price": "14,500",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+       },
+       {
+        "name": "Mercedes-Benz GLE 5-door SUV",
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/02/5-62-1024x683.jpg",
+        "price": "80,000",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+       },
+       {
+        "name": "Porsche Cayenne 5-door SUV",
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/02/1-52-1024x683.jpg",
+        "price": "83,500",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+       },
+       {
+        "name": "Porsche Cayenne SUV white",
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/02/1-40-1024x683.jpg",
+        "price": "82,000",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+       },
+       {
+        "name": "Audi e-tron 5-door SUV whit",
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/02/1-23-1024x683.jpg",
+        "price": "44,000",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+       },
+       {
+        "name": "Audi Q8 5-door SUV Gold",
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/02/1-75-1024x683.jpg",
+        "price": "54,900",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+       },
+       {
+        "name": "Ford Edge 5-door SUV white",
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/02/4-7-1024x683.jpg",
+        "price": "13,900",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+       },
+       {
+        "name": "BMW X1 5-door SUV grey",
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/02/1-1024x683.jpg",
+        "price": "64,500",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+       },
+       {
+        "name": "BMW X7 5-door SUV",
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/02/3-65-1024x683.jpg",
+        "price": "220,000",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+       }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/10/p3-1-336x284.jpg",
+        "name" : "Jhon Due",
+        "email": "johon@gmail.com",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum . Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+    },
+    {
+        "img": "https://demo.vehica.com/wp-content/uploads/2020/10/p7-1-336x284.jpg",
+        "name" : "Ms Brown",
+        "email": "Brown@gmail.com",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum . Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatibus fugit dolores ab? Quasi id veritatis rem nisi pariatur rerum!"
+    }
+]
