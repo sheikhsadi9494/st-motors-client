@@ -6,8 +6,8 @@ your home .</p>
 <ul>
   <li>In this web site a user can order car/product</li>
   <li>he/she can see his/her order</li>
-  <li>If the user want he/she can delete the order<li>
+  <li>If the user want he/she can delete the order</li>
   <li>web site admin can add a car/product</li>
-  <li>he/she also can delete a product/car<li>
+  <li>he/she also can delete a product/car</li>
   <li>admin can see all users order and the can delete the order if he/she want</li>
 </ul>
